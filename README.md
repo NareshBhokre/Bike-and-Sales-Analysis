@@ -1,4 +1,4 @@
-# Title: Bike and Sales Analysis
+# Bike and Sales Analysis
 # Purpose of the Project
 The Purpose of this project is to analyze the Bike and Sales database and identify key insights to help improve sales performance and optimize business strategies.
 # Tool Used
