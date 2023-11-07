@@ -1,6 +1,6 @@
 # Bike and Sales Analysis
 # Purpose of the Project
-The Purposeof this project is to analyze the Bike and Sales database and identify key insights to help improve sales performance and optimize business strategies.
+The Purpose of this project is to analyze the Bike and Sales database and identify key insights to help improve sales performance and optimize business strategies.
 # Tool Used
 1. Microsoft Power BI
 2. Microsoft Excel
